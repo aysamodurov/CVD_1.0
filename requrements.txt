@@ -1,0 +1,14 @@
+mypy==1.11.2
+mypy-extensions==1.0.0
+numpy==2.1.0
+pandas==2.2.2
+pandas-stubs==2.2.2.240807
+PyQt6==6.7.1
+PyQt6-Qt6==6.7.2
+PyQt6_sip==13.8.0
+python-dateutil==2.9.0.post0
+pytz==2024.1
+six==1.16.0
+types-pytz==2024.1.0.20240417
+typing_extensions==4.12.2
+tzdata==2024.1
